@@ -1,6 +1,7 @@
 {
   "name": "angular-ny-logger",
-  "browser: "angular-ny-logger.js",
+  "browser": "angular-ny-logger.js",
+  "main": "angular-ny-logger.js",
   "author": "github.com/naorye",
   "version": "0.0.1",
   "peerDependancies": {
