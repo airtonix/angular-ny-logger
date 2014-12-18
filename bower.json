@@ -1,4 +1,5 @@
 {
   "name": "angular-ny-logger",
-  "homepage": "https://github.com/naorye/angular-ny-logger"
+  "homepage": "https://github.com/naorye/angular-ny-logger",
+  "main": "angular-ny-logger.js"
 }
